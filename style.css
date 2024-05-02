@@ -24,7 +24,7 @@
          line-height: 30px; 
          margin:  16px; 
          text-decoration: none; 
-         font-family: 'Roboto', sans-serif; 
+         font-family: 'Cinzel', serif; 
    }
 header div a:hover { 
    color: black; 
@@ -34,13 +34,13 @@ header div a:hover {
 #box {
    text-align: center; 
    padding: 32px; 
-   font-family: 'Roboto', sans-serif; 
+   font-family: 'Cinzel', serif; 
 }
 
 #box img {
    border-radius: 50%;  
    margin-bottom: 32px; 
-   
+   size: 10px;
 }
 
 #box h1 {
@@ -65,7 +65,7 @@ header div a:hover {
 
 a{
     text-decoration: none;
-    color: black;
+    color: white;
     font-family: "Cinzel", serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -73,7 +73,7 @@ a{
 }
 
 h1{
-    color: black;
+    color: white;
     font-family: "Cinzel", serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -81,7 +81,7 @@ h1{
 }
 
 h2{
-    color: black;
+    color: white;
     font-family: "Cinzel", serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -89,7 +89,7 @@ h2{
 }
 
 p{
-    color: black;
+    color: white;
     font-family: "Cinzel", serif;
     font-optical-sizing: auto;
     font-weight: 400;
